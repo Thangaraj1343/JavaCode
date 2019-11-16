@@ -1,6 +1,6 @@
 package com.basic;
 
-public class For_loop {
+public class For_loopEx {
 
 	public static void main(String[] args) {
 		
